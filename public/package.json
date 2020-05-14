@@ -1,0 +1,21 @@
+{
+  "name": "bild-tool-test",
+  "version": "0.1.0",
+  "description": "",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "npm,publish"
+  ],
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "author": "zero",
+  "license": "private",
+  "devDependencies": {
+    "react": "^16.13.1"
+  },
+  "dependencies": {}
+}
